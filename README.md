@@ -12,5 +12,5 @@ So do like this
 ```fish
 fish -c "flameshot"
 ```
-The fix will be even better if you have fish installed and you use other shell in ex. nushell or zsh. So you have no need to be sick of some env vars. Of course if there is need also change the QT_QPA_PLATFORM var.
+The fix will be even better if you have fish installed and you use other shell in ex. nushell or zsh. So you have no need to be sick of some env vars. Of course if there is need also change the `QT_QPA_PLATFORM` var.
 
